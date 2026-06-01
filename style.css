@@ -394,6 +394,12 @@ transform: translateY(-10px);
 }
 
 
+.logonave_footer{
+    width: 40px;
+    height: auto;
+    margin-bottom: 8px; 
+}
+
 .footernav {
     width: 100%;          
     background-color: #ffffff;
@@ -450,6 +456,7 @@ transform: translateY(-10px);
     color:var(--color-secundario);
     text-decoration-line: underline;
 }
+
 
 
 /*_____________________________________medias__________________________________________________ */
@@ -649,7 +656,8 @@ transform: translateY(-10px);
         min-width: unset;
         align-items: center;
     }
-   .logonave_footer{
+
+    .logonave_footer{
         margin:0 auto;
     }
 }
