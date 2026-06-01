@@ -425,6 +425,12 @@ transform: translateY(-10px);
     gap: 12px; 
 }
 
+.cont_col2,
+.cont_col3,
+.cont_col4 {
+    padding-top: 56px;
+}
+
 .tittle {
     color: #333333;
     font-size: 16px;
@@ -445,11 +451,6 @@ transform: translateY(-10px);
     text-decoration-line: underline;
 }
 
-hr {
-    margin: 0px;
-    border: none;
-    border-top: 1px solid #e5e5e5;
-}
 
 /*_____________________________________medias__________________________________________________ */
 
@@ -648,7 +649,7 @@ hr {
         min-width: unset;
         align-items: center;
     }
-    hr {
-        margin: 30px 20px;
+   .logonave_footer{
+        margin:0 auto;
     }
 }
