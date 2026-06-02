@@ -568,15 +568,15 @@ transform: translateY(-10px);
         justify-self: center;
     }
     .nav-menu {
-        display: none !important; 
+        display: none; 
     }
     .header-actions {
-        display: none !important; 
+        display: none; 
     }
     .header-container {
         padding: 15px 20px;
         justify-content: space-between; 
-        display: grid !important;
+        display: grid;
         grid-template-columns: 1fr auto 1fr; 
         align-items: center;
         padding: 15px 20px;
@@ -617,7 +617,7 @@ transform: translateY(-10px);
 
     /* Secciones QR y Point: Apiladas verticalmente y centradas */
     .contenedor-qr, .contenedor-point {
-        flex-direction: column !important; 
+        flex-direction: column; 
         text-align: center;
         gap: 25px;
     }
