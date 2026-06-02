@@ -9,7 +9,7 @@ font-family: Inter, Arial, Helvetica, sans-serif;
 }
 
 body {
-    background-color: #eff0f4;
+    background-color: #fcfbff;
 }
 
 :root {
@@ -395,8 +395,8 @@ transform: translateY(-10px);
 
 
 .logonave_footer{
-    width: 40px !important;
-    height: auto !important;
+    width: 40px;
+    height: auto;
     margin: 0 auto 16px auto; 
 }
 
