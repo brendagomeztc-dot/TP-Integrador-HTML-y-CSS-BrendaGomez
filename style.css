@@ -395,9 +395,9 @@ transform: translateY(-10px);
 
 
 .logonave_footer{
-    width: 40px;
-    height: auto;
-    margin-bottom: 8px; 
+    width: 40px !important;
+    height: auto !important;
+    margin: 0 auto 16px auto; 
 }
 
 .footernav {
